@@ -1,0 +1,4 @@
+openpyxl
+matplotlib
+ipython
+ipywidgets
